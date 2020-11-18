@@ -26053,6 +26053,7 @@ julia_15 = callPackage ../development/compilers/julia/1.5.nix {
     no-title-bar = callPackage ../desktops/gnome-3/extensions/no-title-bar { };
     paperwm = callPackage ../desktops/gnome-3/extensions/paperwm { };
     pidgin-im-integration = callPackage ../desktops/gnome-3/extensions/pidgin-im-integration { };
+    pop-os-shell = callPackage ../desktops/gnome-3/extensions/pop-os-shell { };
     remove-dropdown-arrows = callPackage ../desktops/gnome-3/extensions/remove-dropdown-arrows { };
     sound-output-device-chooser = callPackage ../desktops/gnome-3/extensions/sound-output-device-chooser { };
     system-monitor = callPackage ../desktops/gnome-3/extensions/system-monitor { };
